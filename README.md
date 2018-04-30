@@ -1,2 +1,2 @@
 # nfec
-Metodos e Funções NFEc
+Pessoal, estou tentando assinar um xml que está nessa mesma pasta aqui e não estou conseguindo, alguém me ajude por favor...
